@@ -1,0 +1,1 @@
+This repository includes the basic java programs that I solved while learning java programming.
